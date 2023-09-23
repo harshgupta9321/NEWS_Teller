@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/components/News1.js
 
 # testing
 /coverage
